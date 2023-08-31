@@ -49,6 +49,9 @@ To more securely manage sensitive information I will use some of the following t
 Here is a Burndown Chart for the Semester:
 ![Alt text](<Burndown Chart for Semester-1.png>)
 
+Project 2 Brief:
+
+In Project 2 I host a ASP.NET Core API on Azure along with a SQL Server database that is also hosted on Azure, all this is in a resource group on Azure to manage it effiecently. I added repositories/services as well and put my private method that check's if an entity exists in there too as that is where it's appropriate.
 
 References:
 
