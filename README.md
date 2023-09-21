@@ -53,6 +53,10 @@ Project 2 Brief:
 
 In Project 2 I host a ASP.NET Core API on Azure along with a SQL Server database that is also hosted on Azure, all this is in a resource group on Azure to manage it effiecently. I added repositories/services as well and put my private method that check's if an entity exists in there too as that is where it's appropriate.
 
+Project 3 Brief:
+
+In Project 3 I host a ASP.NET MVC App on Azure using a provided SQL Server database that is also hosted on Azure. In this project I use a pre-provided MVC app that I had to modify to include repository patterns and remove all data operations in the controller and ensure that they are happening in the repositories. I also implented interfaces for all repositories.
+
 References:
 
 Das, T. (2022) Here’s a Git branching strategy for Better Team Collaboration, Medium. Available at: https://betterprogramming.pub/git-branching-strategy-for-better-team-collaboration-aacb5f235d05 (Accessed: 10 August 2023).
