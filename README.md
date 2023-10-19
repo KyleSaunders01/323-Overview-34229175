@@ -57,6 +57,14 @@ Project 3 Brief:
 
 In Project 3 I host a ASP.NET MVC App on Azure using a provided SQL Server database that is also hosted on Azure. In this project I use a pre-provided MVC app that I had to modify to include repository patterns and remove all data operations in the controller and ensure that they are happening in the repositories. I also implented interfaces for all repositories.
 
+Project 4 Brief:
+
+In Project 4 I'm using Robotic Process Automation to do User Acceptance Testing for a program using UIPath.
+My Solution in UiPath tests all CRUD operations in the Application.
+If the field was succesfully created it has a TRUE value in the given excel spreadsheet
+If you want to run and test the program yourself make sure you have UIPath Studio Installed and then just run the solution 
+You can run any specific sequence you want to test or you can run the entire main sequence to test everything
+
 References:
 
 Das, T. (2022) Here’s a Git branching strategy for Better Team Collaboration, Medium. Available at: https://betterprogramming.pub/git-branching-strategy-for-better-team-collaboration-aacb5f235d05 (Accessed: 10 August 2023).
